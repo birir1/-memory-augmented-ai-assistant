@@ -1,0 +1,76 @@
+# ==============================
+# Core Backend
+# ==============================
+flask
+flask-cors
+python-dotenv
+
+# ==============================
+# LLM & NLP
+# ==============================
+transformers
+accelerate
+sentence-transformers
+bitsandbytes
+
+# ==============================
+# Data Processing
+# ==============================
+numpy
+pandas
+
+# ==============================
+# Machine Learning / Evaluation
+# ==============================
+scikit-learn
+
+# ==============================
+# Vector Search (Memory Retrieval)
+# ==============================
+faiss-cpu
+
+# ==============================
+# Database / ORM
+# ==============================
+sqlalchemy
+
+# ==============================
+# Logging & Utilities
+# ==============================
+loguru
+
+# ==============================
+# Testing
+# ==============================
+pytest
+
+# ==============================
+# Optional (Enable When Needed)
+# ==============================
+# jupyter
+# notebook
+# ipykernel
+# langchain
+# fastapi
+# redis
+# uvicorn
+
+flask
+flask-cors
+python-dotenv
+
+transformers
+accelerate
+sentence-transformers
+bitsandbytes
+
+numpy
+pandas
+scikit-learn
+
+faiss-cpu
+
+sqlalchemy
+
+loguru
+pytest
